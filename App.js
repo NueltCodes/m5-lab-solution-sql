@@ -7,7 +7,7 @@ import {
   Text,
   TouchableOpacity,
 } from 'react-native';
-import * as SQLite from 'expo-sqlite';
+import  SQLite from 'expo-sqlite';
 import {
   IconButton,
   Provider,
